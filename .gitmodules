@@ -1,0 +1,4 @@
+[submodule "joui/public"]
+	path = joui/public
+	url = https://github.com/MondayZhou/MondayZhou.github.io.git
+	branch = main
